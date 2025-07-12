@@ -8,8 +8,7 @@ This project uses a logistic regression model to predict brake failure based on 
 - Output: Brake Status (e.g., 'Very High' for failure)
 
 ## 🖥️ How to Run
-
-1. Clone this repo:
+1.Clone this repo:
 
 git clone https://github.com/GowriSindhu/BreakFailure
 cd brake-failure-alerting-system
@@ -18,6 +17,6 @@ cd brake-failure-alerting-system
 
 pip install -r requirements.txt
 
-3. Run the Streamlit app
+3.Run the Streamlit app
 
-   streamlit run app.py
+streamlit run app.py
