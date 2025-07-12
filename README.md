@@ -11,7 +11,7 @@ This project uses a logistic regression model to predict brake failure based on 
 
 1. Clone this repo:
 
-git clone https://github.com/yourusername/brake-failure-alerting-system.git
+git clone https://github.com/GowriSindhu/BreakFailure
 cd brake-failure-alerting-system
 
 2.Install the required packages
